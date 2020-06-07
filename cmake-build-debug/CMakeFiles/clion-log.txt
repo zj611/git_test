@@ -1,4 +1,4 @@
-"D:\CLion_install\CLion 2019.3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\clion_program\git_exe
+"D:\CLion_install\CLion 2019.3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" E:\clion_program\git_pull
 -- The C compiler identification is GNU 6.3.0
 -- The CXX compiler identification is GNU 6.3.0
 -- Check for working C compiler: D:/Program Files/vs_mingw/bin/gcc.exe
@@ -15,4 +15,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: E:/clion_program/git_exe/cmake-build-debug
+-- Build files have been written to: E:/clion_program/git_pull/cmake-build-debug
