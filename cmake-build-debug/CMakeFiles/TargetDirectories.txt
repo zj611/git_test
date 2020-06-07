@@ -1,3 +1,0 @@
-E:/clion_program/git_pull/cmake-build-debug/CMakeFiles/git_exe.dir
-E:/clion_program/git_pull/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/clion_program/git_pull/cmake-build-debug/CMakeFiles/rebuild_cache.dir
