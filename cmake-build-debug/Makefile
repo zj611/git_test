@@ -149,6 +149,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles\git_exe.dir\build.make CMakeFiles/git_exe.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+output.obj: output.cpp.obj
+
+.PHONY : output.obj
+
+# target to build an object file
+output.cpp.obj:
+	$(MAKE) -f CMakeFiles\git_exe.dir\build.make CMakeFiles/git_exe.dir/output.cpp.obj
+.PHONY : output.cpp.obj
+
+output.i: output.cpp.i
+
+.PHONY : output.i
+
+# target to preprocess a source file
+output.cpp.i:
+	$(MAKE) -f CMakeFiles\git_exe.dir\build.make CMakeFiles/git_exe.dir/output.cpp.i
+.PHONY : output.cpp.i
+
+output.s: output.cpp.s
+
+.PHONY : output.s
+
+# target to generate assembly for a file
+output.cpp.s:
+	$(MAKE) -f CMakeFiles\git_exe.dir\build.make CMakeFiles/git_exe.dir/output.cpp.s
+.PHONY : output.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -161,6 +188,9 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... output.obj
+	@echo ... output.i
+	@echo ... output.s
 .PHONY : help
 
 

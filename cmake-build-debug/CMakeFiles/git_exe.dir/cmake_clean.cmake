@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/git_exe.dir/main.cpp.obj"
+  "CMakeFiles/git_exe.dir/output.cpp.obj"
   "git_exe.exe"
   "git_exe.exe.manifest"
   "git_exe.pdb"

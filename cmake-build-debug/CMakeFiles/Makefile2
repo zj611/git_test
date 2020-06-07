@@ -73,12 +73,12 @@ preinstall:
 CMakeFiles/git_exe.dir/all:
 	$(MAKE) -f CMakeFiles\git_exe.dir\build.make CMakeFiles/git_exe.dir/depend
 	$(MAKE) -f CMakeFiles\git_exe.dir\build.make CMakeFiles/git_exe.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\clion_program\git_exe\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target git_exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=E:\clion_program\git_exe\cmake-build-debug\CMakeFiles --progress-num=1,2,3 "Built target git_exe"
 .PHONY : CMakeFiles/git_exe.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/git_exe.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\clion_program\git_exe\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\clion_program\git_exe\cmake-build-debug\CMakeFiles 3
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/git_exe.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\clion_program\git_exe\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/git_exe.dir/rule
