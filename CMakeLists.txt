@@ -3,4 +3,4 @@ project(git_exe)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(git_exe main.cpp output.cpp)
+add_executable(git_exe main.cpp output.cpp output.h)

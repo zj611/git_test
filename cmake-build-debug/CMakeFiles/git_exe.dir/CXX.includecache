@@ -6,13 +6,17 @@
 
 #IncludeRegexTransform: 
 
-E:/clion_program/git_exe/main.cpp
+E:/clion_program/git_pull/main.cpp
 iostream
 -
-output.cpp
-E:/clion_program/git_exe/output.cpp
+output.h
+E:/clion_program/git_pull/output.h
 
-E:/clion_program/git_exe/output.cpp
+E:/clion_program/git_pull/output.cpp
+output.h
+E:/clion_program/git_pull/output.h
+
+E:/clion_program/git_pull/output.h
 iostream
 -
 

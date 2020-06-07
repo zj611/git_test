@@ -42,10 +42,10 @@ RM = "D:\CLion_install\CLion 2019.3.3\bin\cmake\win\bin\cmake.exe" -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = E:\clion_program\git_exe
+CMAKE_SOURCE_DIR = E:\clion_program\git_pull
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = E:\clion_program\git_exe\cmake-build-debug
+CMAKE_BINARY_DIR = E:\clion_program\git_pull\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/git_exe.dir/depend.make
@@ -58,29 +58,29 @@ include CMakeFiles/git_exe.dir/flags.make
 
 CMakeFiles/git_exe.dir/main.cpp.obj: CMakeFiles/git_exe.dir/flags.make
 CMakeFiles/git_exe.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\clion_program\git_exe\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/git_exe.dir/main.cpp.obj"
-	D:\PROGRA~1\vs_mingw\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\git_exe.dir\main.cpp.obj -c E:\clion_program\git_exe\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\clion_program\git_pull\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/git_exe.dir/main.cpp.obj"
+	D:\PROGRA~1\vs_mingw\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\git_exe.dir\main.cpp.obj -c E:\clion_program\git_pull\main.cpp
 
 CMakeFiles/git_exe.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/git_exe.dir/main.cpp.i"
-	D:\PROGRA~1\vs_mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\clion_program\git_exe\main.cpp > CMakeFiles\git_exe.dir\main.cpp.i
+	D:\PROGRA~1\vs_mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\clion_program\git_pull\main.cpp > CMakeFiles\git_exe.dir\main.cpp.i
 
 CMakeFiles/git_exe.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/git_exe.dir/main.cpp.s"
-	D:\PROGRA~1\vs_mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\clion_program\git_exe\main.cpp -o CMakeFiles\git_exe.dir\main.cpp.s
+	D:\PROGRA~1\vs_mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\clion_program\git_pull\main.cpp -o CMakeFiles\git_exe.dir\main.cpp.s
 
 CMakeFiles/git_exe.dir/output.cpp.obj: CMakeFiles/git_exe.dir/flags.make
 CMakeFiles/git_exe.dir/output.cpp.obj: ../output.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\clion_program\git_exe\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/git_exe.dir/output.cpp.obj"
-	D:\PROGRA~1\vs_mingw\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\git_exe.dir\output.cpp.obj -c E:\clion_program\git_exe\output.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=E:\clion_program\git_pull\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/git_exe.dir/output.cpp.obj"
+	D:\PROGRA~1\vs_mingw\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\git_exe.dir\output.cpp.obj -c E:\clion_program\git_pull\output.cpp
 
 CMakeFiles/git_exe.dir/output.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/git_exe.dir/output.cpp.i"
-	D:\PROGRA~1\vs_mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\clion_program\git_exe\output.cpp > CMakeFiles\git_exe.dir\output.cpp.i
+	D:\PROGRA~1\vs_mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E E:\clion_program\git_pull\output.cpp > CMakeFiles\git_exe.dir\output.cpp.i
 
 CMakeFiles/git_exe.dir/output.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/git_exe.dir/output.cpp.s"
-	D:\PROGRA~1\vs_mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\clion_program\git_exe\output.cpp -o CMakeFiles\git_exe.dir\output.cpp.s
+	D:\PROGRA~1\vs_mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S E:\clion_program\git_pull\output.cpp -o CMakeFiles\git_exe.dir\output.cpp.s
 
 # Object files for target git_exe
 git_exe_OBJECTS = \
@@ -96,7 +96,7 @@ git_exe.exe: CMakeFiles/git_exe.dir/build.make
 git_exe.exe: CMakeFiles/git_exe.dir/linklibs.rsp
 git_exe.exe: CMakeFiles/git_exe.dir/objects1.rsp
 git_exe.exe: CMakeFiles/git_exe.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\clion_program\git_exe\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable git_exe.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=E:\clion_program\git_pull\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable git_exe.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\git_exe.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -109,6 +109,6 @@ CMakeFiles/git_exe.dir/clean:
 .PHONY : CMakeFiles/git_exe.dir/clean
 
 CMakeFiles/git_exe.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" E:\clion_program\git_exe E:\clion_program\git_exe E:\clion_program\git_exe\cmake-build-debug E:\clion_program\git_exe\cmake-build-debug E:\clion_program\git_exe\cmake-build-debug\CMakeFiles\git_exe.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" E:\clion_program\git_pull E:\clion_program\git_pull E:\clion_program\git_pull\cmake-build-debug E:\clion_program\git_pull\cmake-build-debug E:\clion_program\git_pull\cmake-build-debug\CMakeFiles\git_exe.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/git_exe.dir/depend
 
