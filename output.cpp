@@ -9,6 +9,5 @@ void func(){
     while(i--){
         std::cout<<"hello"<<std::endl;
     }
-
 }
 
