@@ -83,6 +83,12 @@
 		<Unit filename="E:/clion_program/git_pull/main.cpp">
 			<Option target="git_exe"/>
 		</Unit>
+		<Unit filename="E:/clion_program/git_pull/output.cpp">
+			<Option target="git_exe"/>
+		</Unit>
+		<Unit filename="E:/clion_program/git_pull/output.h">
+			<Option target="git_exe"/>
+		</Unit>
 		<Unit filename="E:/clion_program/git_pull/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
